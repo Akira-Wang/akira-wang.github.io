@@ -1,11 +1,12 @@
 * {
     font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
   }
    
    
   h1 {
-    background-image: url("https://i.redd.it/ezv32x2rls251.jpg");
-    background-size: cover;
+    color: SeaGreen;
+    background-color: black;
   }
    
    
@@ -20,7 +21,9 @@
   }
 
   body {
-    background-color: white;
+    background-image: url("https://i.redd.it/ezv32x2rls251.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
   } 
 
   .namonai {
